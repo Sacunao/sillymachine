@@ -1,5 +1,5 @@
 ###SILLY MACHINE
-![Imagen Antes](http://4.1m.yt/iiWHinD.png "Imagen")
+![Imagen Antes](http://4.1m.yt/lb9LvaS.png "Imagen")
 
 ###CASO CRI
 En el caso del cri se nos pide hacer una página que al hacer un clic al boton este cambie de color en el borde de cada a una de los circulos de la página de forma iterativa. También solicita que el nombre del circulo este escrito en el input del form.
