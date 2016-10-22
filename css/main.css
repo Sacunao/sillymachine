@@ -1,0 +1,79 @@
+/*------General-------- */
+html, body {
+    box box-sizing: border-box;
+    height: 100%;
+	width: 100%;
+	font-family: verdana;   
+}
+body{
+	background: url(../image/camino.jpg) no-repeat;
+	background-size: 100%;
+	background-size: cover;
+}
+.d-flex{
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/*------Circulos-------- */
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px 20px;
+}
+
+#bolaUno{
+    background-color: greenyellow;
+}
+
+#bolaDos{
+    background-color: darkred;
+}
+
+#bolaTres{
+    background-color: grey;
+}
+
+.b-pink {
+    border: 4px solid deeppink;
+}
+
+.b-gyellow {
+    border: 4px solid greenyellow;
+}
+
+.b-violet {
+    border: 4px solid violet;
+}
+
+/*------Formulario-------- */
+.content{
+	background-color: rgba(42,42,42,0.85);
+	padding: 2% 5%;
+	text-align: center;
+	color: white;
+}
+
+.content input{
+    padding: 5px 30px; 
+    margin: 10px 0px;;
+}
+
+.content p{
+    width: 204px;
+    color: white;
+    background-color: firebrick;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.btn{
+    width: 222px;
+    padding: 8px 10px;
+    margin: 5px 0px;
+    color: white;
+    background-color: firebrick;
+    border: none;
+}
